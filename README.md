@@ -1,6 +1,6 @@
 WELCOME TO MY GITHUB PROFILE
 
-Hey there! 👋 I'm Muhammad Yousaf, a passionate software engineering student based in Sahiwal. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of software engineering.
+Hey there! 👋 I'm Muhammad Yousaf, a passionate Programmer. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of programming.
 
 About Me
 
