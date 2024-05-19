@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @iamproprogramr
-- 👀 I’m interested in programs,Ai and other productive things
+- 👋 Hi, I'm Yousaf!
+
+- 👀 I’m interested in programs, AI, and other productive things
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate for a big AI project
-- 📫 How to reach me my email:yousafsahiwal3@gmail.com
+- 💞️ I’m looking to collaborate on a  AI project
+- 📫 How to reach me: yousafsahiwal3@gmail.com
 
 <!---
 iamproprogramr/iamproprogramr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
