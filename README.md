@@ -1,10 +1,15 @@
-- 👋 Hi, I'm Yousaf!
+#WELCOME TO MY GITHUB PROFILE
 
-- 👀 I’m interested in programs, AI, and other productive things
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on a  AI project
-- 📫 How to reach me: yousafsahiwal3@gmail.com
+Hey there! 👋 I'm Muhammad Yousaf, a passionate software engineering student based in Sahiwal. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of software engineering.
 
+#About Me
+🌱 I'm passionate about learning new technologies and building cool projects
+📫 You can reach me via yousafsahiwal3@gmail.com
+📚 In my free time, I love to read programming books and solve coding problems.
+💻 I'm always eager to help others and contribute to solving real-world challenges.
+
+
+Feel free to explore my repositories to learn more about my work! If you have any questions or suggestions, don't hesitate to reach out.
 <!---
 iamproprogramr/iamproprogramr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
