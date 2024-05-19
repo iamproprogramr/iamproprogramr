@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Yousaf!
 
 - 👀 I’m interested in programs, AI, and other productive things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on a  AI project
 - 📫 How to reach me: yousafsahiwal3@gmail.com
 
