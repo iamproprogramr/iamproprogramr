@@ -21,7 +21,7 @@ Feel free to explore my repositories to learn more about my work! If you have an
 
 My certificates,
 
-![iamproprogramr](1705313325069_Muhammad Yousaf (1)-1.png)
+![iamproprogramr](certificate.png)
 <!---
 iamproprogramr/iamproprogramr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
