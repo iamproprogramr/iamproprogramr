@@ -19,7 +19,7 @@ About Me
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or suggestions, don't hesitate to reach out,
 
-My certificates,
+My certificate,
 
 ![iamproprogramr](certificate.png)
 <!---
