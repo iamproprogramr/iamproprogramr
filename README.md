@@ -15,13 +15,13 @@ About Me
 📫 You can reach me via yousafsahiwal3@gmail.com
 
 ## My skills
-1.python programming (Intermediate)
-2.data science  (Intermediate)
-3.data base (Beginner)
-4.wordpress (Advanced)
-5.canva (Advanced)
+1. python programming (Intermediate)
+2. data science  (Intermediate)
+3. data base (Beginner)
+4. wordpress (Advanced)
+5. canva (Advanced)
 
-# My certificate,
+## My certificate,
 
 ![iamproprogramr](certificate.png)
 
