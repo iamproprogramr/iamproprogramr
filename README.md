@@ -21,7 +21,22 @@ Hey there! 👋 I'm Muhammad Yousaf, a passionate Programmer. Welcome to my GitH
 4. wordpress (Advanced)
 5. canva (Advanced)
 
-## My certificate,
+# Hi there, I'm Muhammad Yousaf 👋
+
+Welcome to my GitHub profile!
+
+## GitHub Stats
+
+![Muhammad Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamproprogramr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamproprogramr&layout=compact&theme=radical)
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamproprogramr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## My certificate
 
 ![iamproprogramr](certificate.png)
 
