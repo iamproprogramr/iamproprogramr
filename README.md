@@ -31,6 +31,7 @@ Feel free to explore my repositories to learn more about my work! If you have an
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+[![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=Python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-004576?style=flat&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
