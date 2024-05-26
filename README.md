@@ -9,7 +9,7 @@ Welcome to my GitHub profile, where I share my journey as a learner, developer, 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sana-jamal-349628295/)](https://www.linkedin.com/in/sana-jamal-349628295/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/iamproprogramr/)](https://leetcode.com/iamproprogramr/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/iamproprogramr)](https://www.hackerrank.com/iamproprogramr)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/iamproprogramr)](https://www.kaggle.com/iamproprogramr)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/yousafkhurram)](https://www.kaggle.com/yousafkhurram)
 
 ---
 
