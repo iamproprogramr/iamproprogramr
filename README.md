@@ -17,7 +17,7 @@ Welcome to my GitHub profile, where I share my journey as a learner, developer, 
 🎓 In 10th grade
 🌱 Passionate about learning new technologies and building cool projects  
 💬 Feel free to ask me about anything related to software development or student life  
-📫 Reach me via [yousafsahiwal3@gmail.com](mailto:yousafsahiwal3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yousaf-khurram-9535b130b/)  
+📫 Reach me via [Email](mailto:yousafsahiwal3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yousaf-khurram-9535b130b/)  
 📚 In my free time, I love to read books and solve coding problems
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or suggestions, don't hesitate to reach out.
@@ -57,14 +57,6 @@ Feel free to explore my repositories to learn more about my work! If you have an
 ![Muhammad Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamproprogramr&show_icons=true&theme=radical)
 
 ---
-
-
-
-
-## My certificate
-
-![iamproprogramr](certificate.png)
-
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or suggestions, don't hesitate to reach out
 
