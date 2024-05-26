@@ -7,7 +7,7 @@ Welcome to my GitHub profile, where I share my journey as a learner, developer, 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousaf-khurram-9535b130b/)](https://www.linkedin.com/in/yousaf-khurram-9535b130b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/selfishyousaf/)](https://www.instagram.com/selfishyousaf/)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:yousafsahiwal3@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/yousafkhurram)](https://www.kaggle.com/yousafkhurram)
 
 ---
