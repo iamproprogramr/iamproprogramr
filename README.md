@@ -48,13 +48,12 @@ Feel free to explore my repositories to learn more about my work! If you have an
 
 ---
 
-## 🔥 My Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamproprogramr&theme=radical)
-
+## 🔥 My Stats and Streak:
 
 
 ![Muhammad Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamproprogramr&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamproprogramr&theme=radical)
 
 
 
