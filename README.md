@@ -52,10 +52,15 @@ Feel free to explore my repositories to learn more about my work! If you have an
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamproprogramr&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamproprogramr&layout=compact&theme=radical)
+
 
 ![Muhammad Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamproprogramr&show_icons=true&theme=radical)
 
+
+
+## 💻 Most Languages used:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamproprogramr&layout=compact&theme=radical)
 ---
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or suggestions, don't hesitate to reach out
