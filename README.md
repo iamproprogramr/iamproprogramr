@@ -15,11 +15,11 @@ Welcome to my GitHub profile, where I share my journey as a learner, developer, 
 
 ## 🧑‍💻 About Me:
 
--🎓 In 10th grade
--🌱 Passionate about learning new technologies and building cool projects  
--💬 Feel free to ask me about anything related to software development or student life  
--📫 Reach me via [Email](mailto:yousafsahiwal3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yousaf-khurram-9535b130b/)  
--📚 In my free time, I love to read books and solve coding problems
+- 🎓 In 10th grade
+- 🌱 Passionate about learning new technologies and building cool projects  
+- 💬 Feel free to ask me about anything related to software development or student life  
+- 📫 Reach me via [Email](mailto:yousafsahiwal3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yousaf-khurram-9535b130b/)  
+- 📚 In my free time, I love to read books and solve coding problems
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or suggestions, don't hesitate to reach out.
 
